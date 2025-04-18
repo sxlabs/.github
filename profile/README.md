@@ -1,4 +1,4 @@
-![SX Image](https://github.com/sxlabs/.github/blob/main/profile/image1.jpg)
+![SX Image](https://github.com/sxlabs/.github/blob/main/profile/xxx.png)
 # X Labs by Ströer X 
 
 ## Hi there 👋
