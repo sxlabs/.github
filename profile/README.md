@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there @ X Labs by Ströer X 
 
 Contact: apps@stroeer-x.de
 
