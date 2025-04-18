@@ -1,4 +1,6 @@
-# Hi there @ X Labs by Ströer X 
+# X Labs by Ströer X 
+
+## Hi there 👋
 
 Contact: apps@stroeer-x.de
 
