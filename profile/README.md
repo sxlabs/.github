@@ -1,5 +1,5 @@
 ![SX Image](https://github.com/sxlabs/.github/blob/main/profile/xxxx.png)
-# X Labs by Ströer X 
+# sxlabs by Ströer X 
 
 ## Hi there 👋
 
